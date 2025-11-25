@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**BorsatoMilton/BorsatoMilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  👋 Hi! I'm Milton
+Advanced Systems Engineering student, passionate about technology and software development. I enjoy learning, experimenting, and working on projects that help me grow. Currently exploring new tools, architectures, and the world of AI.
 
-Here are some ideas to get you started:
+📫 You can contact me through:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/milton-rubén-borsato-gimenez-122794216)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contactar-red)](mailto:borsatomilton@gmail.com)
+
+
+## 🛠 Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BorsatoMilton&theme=github-dark-blue&locale=es)](https://git.io/streak-stats)
+
+
+## 💻 Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorsatoMiltonBorsatoMilton&layout=compact)
