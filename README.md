@@ -18,18 +18,9 @@
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Languages
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorsatoMilton&layout=compact" />
 </p>
 
 ---
@@ -41,14 +32,8 @@
 
 ---
 
-## 💻 Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorsatoMilton&layout=compact" />
-</p>
-
----
-
 ## 📌 About Me
-- 🔭 Currently working on university.  
+- 🔭 Currently working on university + personal projects.  
+- 🌱 Learning about backend development, clean architecture, and cloud technologies.  
 - 🤖 Exploring AI and automation tools.  
 - 🧠 Always curious, always building.
