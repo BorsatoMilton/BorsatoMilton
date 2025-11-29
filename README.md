@@ -1,5 +1,5 @@
 ##  👋 Hi! I'm Milton
-Advanced Systems Engineering student, passionate about technology and software development. I enjoy learning, experimenting, and working on projects that help me grow. Currently exploring new tools, architectures, and the world of AI.
+Advanced Systems Engineering student, passionate about technology and software development. I enjoy learning, experimenting, and working on projects that help me grow. Currently exploring new tools and architectures.
 
 📫 You can contact me through:
 
@@ -17,7 +17,6 @@ Advanced Systems Engineering student, passionate about technology and software d
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorsatoMilton&layout=compact)
 
 ## 📌 About Me
-- 🔭 Currently working on university + personal projects.  
-- 🌱 Learning about backend development, clean architecture, and cloud technologies.  
-- 🤖 Exploring AI and automation tools.  
+- 🔭 Currently working on university. 
+- 🌱 Learning about backend development and clean architecture.    
 - 🧠 Always curious, always building.
